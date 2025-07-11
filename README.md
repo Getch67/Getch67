@@ -22,7 +22,7 @@
 <!---
 Getch67/Getch67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 <img src="https://github-readme-stats.vercel.app/api?username=Getch67&show_icons=true&locale=en" alt="Getch67" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Getch67&show_icons=true&locale=en&layout=compact"alt="Getch67" /> 
-
+--->
